@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![ReactNative](https://img.shields.io/badge/reactnative-%232C8EBB.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Gulp](https://img.shields.io/badge/gulp-%23F05032.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 ### 🔬 Most used languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdubber&langs_count=10&theme=dark&hide_title=true&hide_border=true&border_radius=0) -->
