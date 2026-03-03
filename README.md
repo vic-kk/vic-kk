@@ -20,7 +20,3 @@
 ### 🔬 Most used languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdubber&langs_count=10&theme=dark&hide_title=true&hide_border=true&border_radius=0) -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vic-kk&langs_count=15&theme=dark&hide_title=true&hide_border=true&border_radius=0)
-
-### 📊 Статистика GitHub
-![Ваши GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-kk&show_icons=true&theme=radical)
-
