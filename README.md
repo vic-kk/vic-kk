@@ -14,9 +14,13 @@
 ![ReactNative](https://img.shields.io/badge/reactnative-%232C8EBB.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 🤓 Kata stat
+[![Top Langs](https://www.codewars.com/users/Vic_K/badges/small)](https://www.codewars.com/users/Vic_K)
+
 ### 🔬 Most used languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdubber&langs_count=10&theme=dark&hide_title=true&hide_border=true&border_radius=0) -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vic-kk&langs_count=15&theme=dark&hide_title=true&hide_border=true&border_radius=0)
 
-### 🤓 Kata stat
-[![Top Langs](https://www.codewars.com/users/Vic_K/badges/small)](https://www.codewars.com/users/Vic_K)
+### 📊 Статистика GitHub
+![Ваши GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-kk&show_icons=true&theme=radical)
+
